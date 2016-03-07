@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+	<project name="ido-dev/android_device_xiaomi_ido" path="device/xiaomi/ido" revision="cm-12.1" remote="github" />
+	<project name="ido-dev/proprietary_vendor_xiaomi" path="vendor/xiaomi" revision="cm-12.1" remote="github" />
+	<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+	<project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" />
+</manifest>
